@@ -1,0 +1,17 @@
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# IIS Express
+.vs/
+
+# SQL Server files
+*.mdf
