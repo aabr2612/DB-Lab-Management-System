@@ -23,7 +23,7 @@
 - **Assessment Handling**: Manage assessments and their components, assign rubrics, and evaluate student performance.
 - **Result Tracking**: Record and display student results based on rubric levels and assessment components.
 - **Soft Deletion**: Mark records as "DELETED" instead of permanent removal for assessments, CLOs, rubrics, and rubric levels.
-- **Data Validation**: Ensures input integrity (e.g., email formats, registration number patterns like 2023-CS-73).
+- **Data Validation**: Ensures input integrity (e.g., email formats, registration number patterns like 20xx-xx-xx).
 - **User Interface**: Intuitive dashboard with navigation to manage students, CLOs, assessments, and results.
 
 ## Backend Overview
